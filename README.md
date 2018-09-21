@@ -9,4 +9,3 @@ this repository contains my assignments
 * [Exam-R](https://github.com/AnoukDeSmet/assignments/blob/master/Exam_Anouk.ipynb)
 * [Exam-Python](https://github.com/AnoukDeSmet/assignments/blob/master/exam_pythonAnouk.ipynb)
 
-* [Exam_sep_21](..)
