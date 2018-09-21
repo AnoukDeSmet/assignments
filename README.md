@@ -8,3 +8,5 @@ this repository contains my assignments
 * [Assignment 6](https://github.com/AnoukDeSmet/assignments/blob/master/Graded_assignment_2%20(1).ipynb)
 * [Exam-R](https://github.com/AnoukDeSmet/assignments/blob/master/Exam_Anouk.ipynb)
 * [Exam-Python](https://github.com/AnoukDeSmet/assignments/blob/master/exam_pythonAnouk.ipynb)
+
+* [Exam_sep_21](..)
